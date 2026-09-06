@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+scipy
+joblib
+spacy
+textstat
+nltk
+matplotlib
+seaborn
+pyarrow

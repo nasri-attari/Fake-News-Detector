@@ -1,0 +1,12 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Generated application artifacts
+plagiarism_cache/
+pipeline.joblib

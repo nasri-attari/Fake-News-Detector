@@ -31,7 +31,7 @@ This hands-on comparison illustrates how adding stylistic and semantic features 
 
 1. **Clone** this repository:
    ```bash
-   git clone https://github.com/yourusername/fake-news-detector.git
+   git clone https://github.com/nasri-attari/Fake-News-Detector.git
    cd fake-news-detector
    ```
 
